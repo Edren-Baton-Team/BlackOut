@@ -1,7 +1,7 @@
 # BlackOut
 BlackOut plugin for SCP SL
 
-He helped me rewrite it @Aer#6500
+He helped me rewrite it @Aer#6500 and Nao#7027
 
 # Description: 
 The plugin allows you to turn off the lights whenever you want, but only once. And you can also configure cassie or turn it off altogether.
